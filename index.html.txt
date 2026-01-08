@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI-Generated Adult Digital Content</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="AI-generated adult digital content featuring fictional characters. 18+ only.">
+  <meta name="robots" content="index, follow">
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #0e0e0e;
+      color: #ffffff;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 24px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #ff4d6d;
+    }
+    .notice {
+      border: 1px solid #333;
+      background-color: #1a1a1a;
+      padding: 16px;
+      margin-bottom: 24px;
+    }
+    footer {
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid #333;
+      font-size: 14px;
+      color: #aaa;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>AI-Generated Adult Digital Content</h1>
+
+<div class="notice">
+  <strong>18+ ADULT CONTENT WARNING</strong><br><br>
+  This website contains AI-generated adult content intended strictly for adults.
+  By accessing this website, you confirm that you are at least 18 years old.
+</div>
+
+<h2>About This Website</h2>
+<p>
+This website sells AI-generated adult digital content featuring fictional,
+computer-generated characters.
+</p>
+<p>
+All content is created using artificial intelligence.
+No real people appear in any images.
+This website is intended exclusively for adults aged 18 and over.
+</p>
+
+<h2>Our Products</h2>
+<p>
+Our products consist of AI-generated adult digital images created for
+entertainment and artistic purposes.
+</p>
+<p>
+All characters depicted are fictional and computer-generated.
+They do not represent real individuals, models, or performers.
+</p>
+<p>
+All products are delivered digitally.
+No physical products are sold or shipped.
+</p>
+
+<h2>AI Content Disclosure</h2>
+<p>
+All content available on this website is generated using artificial intelligence technology.
+</p>
+<p>
+Any resemblance to real persons, living or deceased, is purely coincidental.
+</p>
+
+<h2>Delivery</h2>
+<p>
+All products are delivered digitally.
+After successful payment, customers receive access via secure download or email delivery.
+</p>
+<p>
+There is no physical shipping.
+</p>
+
+<h2>Refund Policy</h2>
+<p>
+Due to the digital nature of our products, all sales are final.
+</p>
+<p>
+If a customer experiences a technical issue or does not receive their content,
+support is available to resolve the issue.
+</p>
+
+<h2>Contact</h2>
+<p>
+For questions or support, please contact:
+</p>
+<p>
+<strong>Email:</strong> support@yourdomain.com
+</p>
+
+<h2>Terms of Service</h2>
+<p>
+By accessing or purchasing from this website, you agree that:
+</p>
+<ul>
+  <li>You are at least 18 years old</li>
+  <li>All content is AI-generated and fictional</li>
+  <li>All products are delivered digitally</li>
+  <li>Content is for personal use only</li>
+  <li>Redistribution or resale is prohibited</li>
+  <li>No specific results or outcomes are guaranteed</li>
+</ul>
+
+<h2>Privacy Policy</h2>
+<p>
+We collect only the information necessary to process payments and deliver digital products.
+</p>
+<p>
+We do not sell or share personal data with third parties,
+except payment processors such as Stripe.
+</p>
+
+<footer>
+  © 2026 — AI-Generated Digital Content. All rights reserved.
+</footer>
+
+</body>
+</html>
+
